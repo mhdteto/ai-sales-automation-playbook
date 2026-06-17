@@ -28,10 +28,11 @@ ROI = 45,400 / 5,000 = 9.08
 
 ## Interpretation
 
-In this example, the automation program returns about 9x the implementation cost through time savings alone. Additional value may come from faster follow-up, cleaner CRM data and better conversion rates.
+In this illustrative example, the estimated time-savings value is about 9x the implementation cost. This is a planning proxy, not a guaranteed financial return.
 
 ## Notes
 
 - Validate assumptions with real sales activity data.
 - Start with one workflow before scaling.
 - Track quality, not only time saved.
+- Do not treat the estimate as proof of pipeline or revenue impact.
