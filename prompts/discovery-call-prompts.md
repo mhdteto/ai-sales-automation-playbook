@@ -19,7 +19,16 @@ Return:
 4. Decision process questions
 5. Next-step questions
 
+Constraints:
+- Do not assume that a pain point is confirmed.
+- Do not invent company, buyer or deal information.
+- Mark missing context as unknown or assumption.
+- Keep questions concise, open and non-manipulative.
+- A human sales representative must review the questions before the call.
+
 ## Call summary
+
+Act as a B2B sales operations assistant.
 
 Summarize these discovery notes for a sales manager.
 
@@ -33,3 +42,10 @@ Return:
 4. Buying timeline
 5. Next step
 6. Risk level
+
+Constraints:
+- Use only facts present in the notes.
+- Do not invent dates, stakeholders, commitments or risks.
+- Mark missing information as unknown.
+- Separate confirmed facts from assumptions.
+- A human sales representative must review the summary before adding it to a CRM.
