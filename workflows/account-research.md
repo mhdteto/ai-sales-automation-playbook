@@ -13,6 +13,14 @@ Help sales teams prepare faster before contacting a target account.
 - Target buyer
 - Recent news or trigger event
 
+## Process
+
+1. Collect public, verifiable account information.
+2. Separate confirmed facts from assumptions.
+3. Summarize the account in a consistent structure.
+4. Generate possible priorities, questions and outreach angles.
+5. Send the draft to a sales representative for review.
+
 ## AI output
 
 - Company summary
@@ -23,9 +31,20 @@ Help sales teams prepare faster before contacting a target account.
 - Discovery questions
 - Potential objections
 
+## Human review step
+
+A sales representative should verify company facts, sources, trigger events and assumptions before using the brief.
+
 ## Business value
 
 This workflow helps reduce research time, improve personalization and increase the quality of outbound conversations.
+
+## Risks and limitations
+
+- Public information may be outdated.
+- Suggested pain points are hypotheses, not confirmed customer needs.
+- AI output may omit relevant context.
+- Confidential or private data should not be added to the prompt.
 
 ## Suggested prompt
 
@@ -52,3 +71,5 @@ Return:
 4. Suggested outreach angle
 5. Discovery questions
 6. Risks or objections
+
+Do not invent facts. If information is missing, mark it as unknown or assumption. Keep the output concise and reviewable by a human sales representative.
