@@ -15,6 +15,14 @@ Help sales teams qualify inbound leads faster and route them to the right next a
 - Budget range if available
 - Timeline if available
 
+## Process
+
+1. Validate the available lead and company information.
+2. Identify stated needs, timing and missing details.
+3. Produce a provisional fit and priority assessment.
+4. Recommend the next question or action.
+5. Send the result to a sales representative for review.
+
 ## AI output
 
 - Company summary
@@ -24,9 +32,20 @@ Help sales teams qualify inbound leads faster and route them to the right next a
 - Missing information
 - Recommended next step
 
+## Human review step
+
+A sales representative should confirm the qualification, priority and routing decision before commercial action.
+
 ## Business value
 
 This workflow helps teams respond faster, prioritize stronger opportunities and avoid treating every inbound lead the same way.
+
+## Risks and limitations
+
+- Missing information can make fit scores unreliable.
+- AI should not infer budget, authority or intent without evidence.
+- Qualification should not replace direct discovery.
+- Personal and confidential data should be handled according to company policy.
 
 ## Suggested prompt
 
@@ -47,3 +66,5 @@ Return:
 4. Missing information
 5. Recommended next step
 6. Suggested follow-up question
+
+Do not invent facts. If information is missing, mark it as unknown or assumption. Keep the output concise and reviewable by a human sales representative.
